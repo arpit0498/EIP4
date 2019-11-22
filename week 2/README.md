@@ -44,9 +44,13 @@ model.evaluate(on test data)[0.01932154694770652, 0.9941]
 
 Summary
 The accuracy of validation set is 99.41(>99.4).
+
 For removing the bias we used "bias=False" in each layer.
+
 Reduce the kernels from 32 to just 10 or 16 so parameter will be less than 15k.
+
 Reduce the value of dropout to obtain validation accuracy above 99.4%.
+
 
 Group
 Arpit Gupta , Rishabh Sharma.
