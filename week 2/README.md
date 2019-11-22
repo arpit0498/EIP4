@@ -43,6 +43,7 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869. 60000/6
 model.evaluate(on test data)[0.01932154694770652, 0.9941]
 
 Summary
+
 The accuracy of validation set is 99.41(>99.4).
 
 For removing the bias we used "bias=False" in each layer.
