@@ -2,7 +2,7 @@
 Accuracy on test data is:</b> <br>
 <b>83.34</b>
 
-<h3>Model definition (model.add... ) with output channel size and receptive field</h>
+<h3>Model definition (model.add... ) with output channel size and receptive field</h3>
 
 model = Sequential()
 model.add(SeparableConv2D(48, kernel_size=(3,3), input_shape=(32, 32, 3))) #30X30X48 #RF=3X3
