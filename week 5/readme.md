@@ -1,1 +1,4 @@
-accuracy
+<b>accuracy</b>
+
+used <b>inception v3</b>
+gender_output_loss: 0.4743 - image_quality_output_loss: 0.9501 - age_output_loss: 1.3457 - weight_output_loss: 0.9305 - bag_output_loss: 0.8351 - footwear_output_loss: 0.7947 - pose_output_loss: 0.6640 - emotion_output_loss: 0.8444 - gender_output_acc: 0.7687 - image_quality_output_acc: 0.5630 - age_output_acc: 0.4144 - weight_output_acc: 0.6378 - bag_output_acc: 0.6303 - footwear_output_acc: 0.6383 - pose_output_acc: 0.7183 - emotion_output_acc: 0.7173 - val_loss: 7.2466 - val_gender_output_loss: 0.6347 - val_image_quality_output_loss: 0.9558 - val_age_output_loss: 1.4349 - val_weight_output_loss: 0.9730 - val_bag_output_loss: 0.8943 - val_footwear_output_loss: 0.8848 - val_pose_output_loss: 0.7726 - val_emotion_output_loss: 0.9379 - val_gender_output_acc: 0.6763 - val_image_quality_output_acc: 0.5551 - val_age_output_acc: 0.3910 - val_weight_output_acc: 0.6380 - val_bag_output_acc: 0.5636 - val_footwear_output_acc: 0.5911 - val_pose_output_acc: 0.6644 - val_emotion_output_acc: 0.6920
